@@ -10,6 +10,6 @@ I am a results-driven Techno Commercial Executive based in Pune, with a strong b
 
 🚀 This site is hosted via **GitHub Pages** and built entirely with clean, responsive HTML/CSS.
 
-📄 [Download My Resume (PDF)](https://guddetushar2161.github.io/tushar-resume/)
+📄 [Download My Resume (PDF)](https://guddetushar2161.github.io/)
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/guddetushar2161/)
 
