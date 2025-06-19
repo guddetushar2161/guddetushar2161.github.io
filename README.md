@@ -1,2 +1,15 @@
-# tushar_resume
-💼 Techno Commercial Executive with hands-on expertise in Windows Server, Linux (Ubuntu), RAID, Sophos Firewall, Active Directory, iSCSI, networking, OS configuration, and enterprise IT deployments. This site highlights key technical skills through real-world infrastructure projects.
+# 💻 Tushar Gudde - Online Resume
+
+Welcome to my interactive online resume!
+
+I am a results-driven Techno Commercial Executive based in Pune, with a strong background in:
+- Enterprise-grade server deployments (HP, Dell, Lenovo)
+- Windows Server (2016–2025) and Linux (Ubuntu) setup
+- RAID configuration, Sophos Firewall, Active Directory, iSCSI storage
+- Technical support, hardware troubleshooting & secure network design
+
+🚀 This site is hosted via **GitHub Pages** and built entirely with clean, responsive HTML/CSS.
+
+📄 [Download My Resume (PDF)](https://guddetushar2161.github.io/tushar-resume/)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/guddetushar2161/)
+
