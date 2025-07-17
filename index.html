@@ -500,8 +500,7 @@ footer .text span a:hover{
   .contact .text{
     width: 100%;
 }
-}
-
+	}
 @media (max-width: 500px){
   .home .text-two{
     font-size: 55px;
@@ -512,6 +511,38 @@ footer .text span a:hover{
   .skills-details .boxes .per{
     font-size: 50px;
     color: #4070f4;
+  }
+  .button-group {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 20px;
+ }
+.button button {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 6px;
+  background: linear-gradient(120deg, #4070f4, #ac6767);
+  cursor: pointer;
+  font-size: 18px;
+}
+.button a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  display: inline-block;
+}
+}
+@media (max-width: 600px) {
+  .button-group {
+    flex-direction: column;
+    align-items: center;
+  }
+  .button button {
+    width: 90%;
+    font-size: 16px;
   }
 }
 
